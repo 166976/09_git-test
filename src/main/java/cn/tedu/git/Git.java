@@ -7,5 +7,7 @@ public class Git {
         System.out.println("third commit");
         System.out.println("four commit");
         System.out.println("master commit!!!!");
+        System.out.println("four commit");
+        System.out.println("hot-fix commit");
     }
 }
