@@ -9,6 +9,8 @@ public class Git {
         System.out.println("master commit!!!!");
         System.out.println("four commit");
         System.out.println("hot-fix commit");
+        System.out.println("idea push ");
     }
+
 
 }
